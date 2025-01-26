@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon error that can occur in COBOL programs when using the PERFORM VARYING statement with an embedded conditional EXIT PERFORM. The bug involves an improper handling of the loop counter, leading to unexpected results. The solution demonstrates how to properly manage the loop counter to achieve the desired outcome.
